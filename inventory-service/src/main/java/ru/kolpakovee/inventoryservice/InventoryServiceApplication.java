@@ -8,6 +8,7 @@ import ru.kolpakovee.inventoryservice.model.Inventory;
 import ru.kolpakovee.inventoryservice.repository.InventoryRepository;
 
 @SpringBootApplication
+
 public class InventoryServiceApplication {
 
 	public static void main(String[] args) {
